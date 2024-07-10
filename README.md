@@ -31,3 +31,18 @@ This project involves an in-depth analysis of e-commerce data, focusing on sales
 
 ## License
 This project is licensed under the MIT License.
+
+
+## SQL Analysis Queries
+
+The SQL queries used for data analysis are included in the `analysis_queries.sql` file. These queries cover:
+
+- Total sales by category
+- Monthly sales trends
+- Top 5 customers by lifetime value
+- Customer distribution by city
+- Average shipping time
+- Orders by shipping mode
+- Product profit analysis
+
+You can view and download the SQL code [here](analysis_queries.sql).
